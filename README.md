@@ -8,5 +8,7 @@ The SQL 50 on LeetCode provided an extensive collection of SQL problems covering
 5. **Advanced Select and Joins**
 6. **Subqueries**
 7. **Advanced String Functions / Regex / Clause**
-   
-     "C:\Users\Intel\Downloads\SQL.jpg"
+
+
+   ![SQL](https://github.com/Riya1903/LeetCode-SQL50-Solutions/assets/100956741/e5b09e62-a2d8-4789-90e3-4e32867e397d)
+
